@@ -3,6 +3,7 @@ body {
     color: rgb(45, 45, 45);
     padding: 10px;
     font-family: arial;
+    font-weight: bold;
 }
 #all-contents {
   max-width: 800px;
@@ -17,6 +18,7 @@ nav {
     display: flex;
     padding: 10px;
     border-radius: 50px 10px;
+    border-style: dotted;
 }
 h1 {
     display: flex;
@@ -50,6 +52,7 @@ main {
 .sidebar-img {
     width: 200px;
     border-radius: 50px 10px;
+    border-style: dotted;
 }
 .content {
     flex: 1;
@@ -79,6 +82,7 @@ h2, h3 {
     padding: 10px;
     border-radius: 10px;
     margin-bottom: 10px;
+    border-style: dotted;
 }
 
 #portfolio li:hover {
