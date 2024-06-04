@@ -11,15 +11,16 @@ body {
 
 /* navigation menu */
 nav {
-    background: rgb(239, 80, 41);
-   margin: 0 auto;
+    background: rgb(51, 156, 104);
+    margin: 0 auto;
+    margin-bottom: 20px
     display: flex;
     padding: 10px;
 }
 h1 {
     display: flex;
     align-items: center;
-    color: white;
+    color: rgb(214, 203, 203, 0.719);
     flex: 1;
     margin: 0;
 }
@@ -32,7 +33,7 @@ h1 {
 }
 a {
     text-decoration: none;
-    color: #fff;
+    color: #ffffff;
 }
 
 /* main container area beneath menu */
