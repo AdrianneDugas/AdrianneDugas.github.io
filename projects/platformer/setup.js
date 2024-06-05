@@ -97,4 +97,5 @@ var collectableList = {
   kennedi: { image: "images/collectables/kennedi-head.png" },
   max: { image: "images/collectables/max-head.png" },
   steve: { image: "images/collectables/steve-head.png" },
+  metal: { image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUKVs3ekJPEgfE2AwHc20jCVksiDIEO2azZ0uPiTmBJhIo7BWY49H0kUlvNeBlGHD2CRY:https://as1.ftcdn.net/v2/jpg/03/82/20/50/1000_F_382205024_ZQEDE6UKI5819uAxTnXwdC0e4NgkPksp.jpg&usqp=CAU" },
 };
